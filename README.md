@@ -1,3 +1,15 @@
+<div align="center">
+  <img src="assets/logo.png"
+       alt="Selenium-to-Playwright Migrator Logo"
+       width="220">
+
+  <h1>Selenium-to-Playwright Migrator</h1>
+
+  <p>
+    An AI-assisted Kiro Power for Selenium Java to Playwright TypeScript migration.
+  </p>
+</div>
+
 # Selenium-to-Playwright Migrator
 
 A Kiro Power for migrating Java Selenium projects (TestNG and JUnit) into an **existing** Playwright TypeScript framework.
