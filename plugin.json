@@ -1,0 +1,23 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "selenium-playwright-migrator",
+  "version": "0.1.0",
+  "description": "Migrate Java Selenium projects using TestNG or JUnit into an existing Playwright TypeScript framework. Discover and reuse target framework methods, preserve its architecture, preview every change, and report unresolved source methods.",
+  "author": {
+    "name": "Community"
+  },
+  "keywords": [
+    "selenium",
+    "playwright",
+    "selenium migration",
+    "java selenium",
+    "testng",
+    "junit",
+    "typescript",
+    "automation migration",
+    "page object model",
+    "framework migration",
+    "test automation"
+  ],
+  "license": "MIT"
+}
