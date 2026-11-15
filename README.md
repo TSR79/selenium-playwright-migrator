@@ -48,3 +48,13 @@ This is an instruction-first starter Power. It does not claim that all Java cons
 ## Development status
 
 Version `0.1.0` — initial workflow and safety policy scaffold. Helper scripts and automated structural validation will be added in later phases.
+
+## Privacy Policy
+
+Read our [Privacy Policy](PRIVACY.md) for information about data handling, AI processing, and third-party services.
+
+## Support
+
+For bug reports, installation issues, feature requests, or migration questions, please [open a GitHub Issue](https://github.com/TSR79/selenium-playwright-migrator/issues).
+
+This is a community-maintained, instruction-driven Kiro Power. Support is provided on a best-effort basis.
