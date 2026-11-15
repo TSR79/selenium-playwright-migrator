@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "description": "Migrate Java Selenium projects using TestNG or JUnit into an existing Playwright TypeScript framework. Discover and reuse target framework methods, preserve its architecture, preview every change, and report unresolved source methods.",
   "author": {
-    "name": "Community"
+    "name": "TSR79"
   },
   "keywords": [
     "selenium",
